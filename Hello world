@@ -4,6 +4,9 @@ using namespace std;
 int main() {
   cout << "Hello World! \n";
   cout << "Have a good day! \n\n";
-  cout << 314 + 7;
+  cout << 314 + 7 \n; 
+int funnynumber;
+funnynumber = 69;
+cout << funnynumber;
   return 0;
-}
+}     
