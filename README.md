@@ -1,1 +1,1 @@
-I just need to write smthin here because thats what the tutorial thing says sooooo dnd spoilers. Glorbo is going to become a thrall
+I just need to write smthin here because thats what the tutorial thing says sooooo dnd spoilers. I'm gonna make the party fight an abyssal Tarrasque
