@@ -8,5 +8,10 @@ int main() {
 int funnynumber;
 funnynumber = 69;
 cout << funnynumber;
+bool birdbrain = 1
+cout << birdbrain;
+cout << Rate Cornbread
+cin >> Cornbread
+cout << (Cornbread > 5);
   return 0;
 }     
