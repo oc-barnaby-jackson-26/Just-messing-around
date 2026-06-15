@@ -1,17 +1,20 @@
+
 #include <iostream>
 using namespace std;
-//Waow comment time
 int main() {
+    //Waow comment time
   cout << "Hello World! \n";
   cout << "Have a good day! \n\n";
-  cout << 314 + 7 \n; 
-int funnynumber;
-funnynumber = 69;
-cout << funnynumber;
-bool birdbrain = 1
-cout << birdbrain;
-cout << Rate Cornbread
-cin >> Cornbread
-cout << (Cornbread > 5);
+  cout << 314 + 7;
+  cout << "\n";
+int funnynumber = 413;
+ cout << funnynumber << "\n";
+bool birdbrain = 1;
+ cout << birdbrain << "\n";
+ cout << "Rate Cornbread \n";
+ cout << boolalpha;
+ int Cornbread;
+ cin >> Cornbread;
+ cout << (Cornbread > 5);
   return 0;
 }     
