@@ -1,4 +1,3 @@
-
 #include <iostream>
 using namespace std;
 int main() {
@@ -15,6 +14,13 @@ bool birdbrain = 1;
  cout << boolalpha;
  int Cornbread;
  cin >> Cornbread;
- cout << (Cornbread > 5);
-  return 0;
+ cout << (Cornbread > 5) << "\n";
+if (Cornbread < 6) {
+cout << "You have objectively wrong opinions \n";
+} else if (Cornbread < 25) {
+cout << "I respect you \n";
+} else {
+cout << "You have correctly rated cornbread \n";
+}
+return 0;
 }     
